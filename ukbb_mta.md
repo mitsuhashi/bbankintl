@@ -164,18 +164,18 @@
         * 13.2.2 if sent by post, on the date of delivery if a business day in the place of receipt (or, if not a business day, on the first business day thereafter).
     * 13.3 Notices to UK Biobank shall be sent to the access team at access@ukbiobank.ac.uk. Notices to the Applicant shall be sent by email to the relevant Applicant and the Applicant PI.
 * 14. Affiliates, assignment and sub-contracting
-    * 14.1 Affiliates
-    * The rights granted to the Applicant under this MTA for the Approved Research Project include the Affiliates of the Applicant, subject to the Applicant:
+    * Affiliates
+    * 14.1 The rights granted to the Applicant under this MTA for the Approved Research Project include the Affiliates of the Applicant, subject to the Applicant:
         * 14.1.1 providing updated details of each Affiliate in the Annual Project Report submitted to UK Biobank on an annual basis in accordance with clause 7.1 of the MTA;
         * 14.1.2 remaining fully liable and responsible to UK Biobank for all acts, defaults and omissions of each of its Affiliates as if they were the Applicant’s own; and
         * 14.1.3 ensuring that each of its Affiliates comply with the terms and conditions of this MTA.
-    * 14.2 Assignment
-    * Neither UK Biobank nor the Applicant shall be entitled to assign this MTA or any of its rights or obligations hereunder without first having received the written approval of the other party, such approval not to be unreasonably withheld or delayed.
-    * 14.3 Subcontracting
-    * Other than in the circumstances set out in clause 14.5, the Applicant shall not sub-contract the performance of any of its obligations under the MTA or any part thereof without having first obtained the prior written consent of UK Biobank, such consent not to be unreasonably withheld.
+    * Assignment
+    * 14.2 Neither UK Biobank nor the Applicant shall be entitled to assign this MTA or any of its rights or obligations hereunder without first having received the written approval of the other party, such approval not to be unreasonably withheld or delayed.
+    * Subcontracting
+    * 14.3 Other than in the circumstances set out in clause 14.5, the Applicant shall not sub-contract the performance of any of its obligations under the MTA or any part thereof without having first obtained the prior written consent of UK Biobank, such consent not to be unreasonably withheld.
     * 14.4 In the event that consent is granted under clause 14.3, the relevant Applicant shall be responsible for the acts, defaults and omissions of its sub-contractors as if they were the Applicant’s own, and any consent given shall not relieve such relevant Applicant of any of its obligations under this MTA.
-    * 14.5 Third-Party Processors
-    * UK Biobank acknowledges and agrees that the Applicant may subcontract to third party processors to process the Materials strictly for the Permitted Purpose and only in relation to discrete elements of data computation and analysis (such processors being, "Third-Party Processors"). The Applicant must comply with, and only engage Third-Party Processors strictly in accordance with the terms set out in clauses 14.6 to 14.10 inclusive.
+    * Third-Party Processors
+    * 14.5 UK Biobank acknowledges and agrees that the Applicant may subcontract to third party processors to process the Materials strictly for the Permitted Purpose and only in relation to discrete elements of data computation and analysis (such processors being, "Third-Party Processors"). The Applicant must comply with, and only engage Third-Party Processors strictly in accordance with the terms set out in clauses 14.6 to 14.10 inclusive.
     * 14.6 The Applicant warrants that the Third-Party Processor is not a Collaborator and shall only be engaged for the purposes of discrete elements of data computation and analysis in relation to the Permitted Purpose (the "Processor Task").
     * 14.7 Prior to engaging a Third-Party Processor, the Applicant shall conduct and document the following assessment:
         * 14.7.1 whether the Third-Party Processor is necessary for the progress of the research aims of the Approved Research Project;
